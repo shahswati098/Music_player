@@ -1,6 +1,5 @@
 # My-Music
-
-## live link for project [My-Music](https://deepaksuthar40128.github.io/My-Music/)
+ 
 
 ## Table of contents
 
@@ -53,4 +52,4 @@ There is a basic music player web app which is compitable in both mobile as well
  ## Improvements
 
  - User Interface can be improved
- ### If you found any way or idea to improve my project or any query,You can contact me [Deepak Suthar](https://deepaksuthar.vercel.app)
+ ### If you found any way or idea to improve my project or any query,You can contact me Swati Shah
